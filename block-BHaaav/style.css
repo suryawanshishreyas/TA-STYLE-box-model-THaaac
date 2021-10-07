@@ -1,0 +1,136 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+body{
+    line-height: 1.5;
+}
+
+h2{
+    text-align: center;
+    font-size: 32px;
+    padding: 10px 10px;
+    color: white;
+}
+.nav{
+    text-align: center;
+    margin-left: 580px;
+    color: white;
+    display: inline-block;
+
+}
+h1{
+    font-size: 42px;
+    color: white;
+    margin: 50px 0 25px 200px;
+}
+hr{
+    width: 900px;
+    border-color: white;
+    margin-left: 200px;
+}
+.two{
+    padding-bottom: 100px;
+    margin-left: 200px;
+    font-size: 16px;
+    color: white;
+    box-sizing: border-box;
+}
+.Header{
+    background-color: #2d3040;
+    box-sizing: border-box;
+}
+h3{
+    padding-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+.dot{
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    border-radius: 50%;
+}
+.three{
+    width: 900px;
+    padding-bottom: 20px;
+    margin: 10px 0 0 200px;
+    font-size: 16px;
+    display: block;
+    box-sizing: border-box;
+}
+.A{
+    background-color: rgba(76,92,150,255);
+    box-sizing: border-box;
+    margin-top:-50px;
+    color: white;
+    display: block;
+}
+.B{
+    background-color: rgba(69,85,141,255);
+    box-sizing: border-box;
+    margin-top:-50px;
+    color: white;
+    display: block;
+}
+.C{
+    background-color: rgba(63,78,133,255);
+    box-sizing: border-box;
+    margin-top:-50px;
+    color: white;
+    display: block;
+}
+.four{
+    background-color: rgba(46,49,65,255);
+    box-sizing: border-box;
+    font-size: 16px;
+    color: grey;
+    display: block;
+    
+}
